@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-
     <nav class="navbar ">
       <div class="navbar-brand">
 
